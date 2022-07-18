@@ -1,4 +1,4 @@
-# hugs-are-better-than-thugs
+# Hugs are Better than Thugs
 
 A contribution to the useless web.
 
