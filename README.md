@@ -1,8 +1,13 @@
 # Hugs are Better than Thugs
 
+> **Warning**  
+> This repo is a work in progress!
+
 A contribution to the useless web.
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) 
 * [Nice is Good, Mean is Bad](https://www.youtube.com/watch?v=zzGl9vRqeaM&t=6s)
