@@ -1,6 +1,6 @@
 # Hugs are Better than Thugs
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 A contribution to the useless web.
